@@ -15,7 +15,7 @@ Happy Machine Learning !!!
 We have thoroughly enjoyed participating in the competition. Please hold more such competitions !!
 # Competition Link
 * [Analytics Vidhya Competition Link ](https://datahack.analyticsvidhya.com/contest/football-hackathon/#About)
-* [Results]([https://www.linkedin.com/posts/caciitg_cascade-cup-22-winners-activity-6901896282709852160-41gY](https://datahack.analyticsvidhya.com/contest/football-hackathon/#LeaderBoard))
+* [Results](https://datahack.analyticsvidhya.com/contest/football-hackathon/#LeaderBoard)
 
 # Connect With us on LinkedIn [If You Like Our Work]
 * [Ashis Kumar Parida](https://www.linkedin.com/in/ash73-cloud/)
