@@ -4,9 +4,9 @@ Spanish footballing giant Sevilla FC together with FC Bengaluru United, one of I
 # Our Work
 This Repository contains the approach and code file of Football Hackathon organized by Sevilla F.C in partnership with Bengaluru F.C hosted on Analytics Vidhya.
 We are Team 'Heritage is Real'.
-We secured 4th Position on the Leaderboard.
+We secured 3rd Position on the Private Leaderboard.
 # File Descriptions
-There was only One round. We have uploade our Code File, Submission File and Approach.
+There was only One round. We have uploade our Code File, Submission File and Approach. And there isa presentation file, which we presented in a discussion meeting with Sevilla F.C team.
 Happy Machine Learning !!!
 # Team Members of 'Heritage is Real'
 * [Ashis Kumar Parida](https://github.com/ash73-cloud)
