@@ -5,6 +5,7 @@ Spanish footballing giant Sevilla FC together with FC Bengaluru United, one of I
 This Repository contains the approach and code file of Football Hackathon organized by Sevilla F.C in partnership with Bengaluru F.C hosted on Analytics Vidhya.
 We are Team 'Heritage is Real'.
 We secured 3rd Position on the Private Leaderboard.
+🎉🎉And after checking everyone's approach, we were declared as the Global Winners.🎉🎉
 # File Descriptions
 There was only One round. We have uploade our Code File, Submission File and Approach. And there isa presentation file, which we presented in a discussion meeting with Sevilla F.C team.
 Happy Machine Learning !!!
@@ -15,7 +16,7 @@ Happy Machine Learning !!!
 We have thoroughly enjoyed participating in the competition. Please hold more such competitions !!
 # Competition Link
 * [Analytics Vidhya Competition Link ](https://datahack.analyticsvidhya.com/contest/football-hackathon/#About)
-* [Results](https://datahack.analyticsvidhya.com/contest/football-hackathon/#LeaderBoard)
+* [Results](https://www.news18.com/news/football/final-year-students-from-nit-rourkela-win-global-football-hackathon-organised-by-fc-bengaluru-united-and-sevilla-fc-5496961.html)
 
 # Connect With us on LinkedIn [If You Like Our Work]
 * [Ashis Kumar Parida](https://www.linkedin.com/in/ash73-cloud/)
